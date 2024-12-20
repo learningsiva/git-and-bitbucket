@@ -1,2 +1,3 @@
 ECHO is on.
 it my new file 
+nothing in it
